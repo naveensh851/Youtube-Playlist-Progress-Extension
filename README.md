@@ -1,8 +1,11 @@
 # YouTube Playlist Progress Tracker
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 A simple Chrome extension that helps you actually finish YouTube playlists — because once you see your progress, you naturally want to keep going.
 
 ---
+
 
 ## Why I built this
 
